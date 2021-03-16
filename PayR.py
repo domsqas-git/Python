@@ -1,4 +1,4 @@
-print("Hello world")
+
 
 hours = input("Enter Hours:")
 h = float(hours)
