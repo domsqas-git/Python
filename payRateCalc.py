@@ -1,4 +1,4 @@
-print("Hello world")
+print("Hello Money!")
 
 hours = input("Enter Hours:")
 h = float(hours)
