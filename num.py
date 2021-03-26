@@ -13,5 +13,7 @@ def num_name ():
 num = int(input("Type a number up 1K"))
 
 if 1 <= num <= 1000:
-    
+    print("num")
+else:
+    print(-1)
     
